@@ -1,0 +1,8 @@
+<!-- index.nunjucks -->
+{% extends "layouts/default.nunjucks" %}
+
+{% block title %}Title{% endblock %}
+
+{% block content %} 
+<h1>block content</h1>
+{% endblock %}
