@@ -1,3 +1,3 @@
 // module js file
 
-var vendor = require('../vendor/vendor');
+// var vendor = require('../vendor/vendor');
